@@ -1,5 +1,3 @@
-# Descomplica-ProjetoNu-MiniProjeto2
-
 # Projeto Nu (Descomplica)
 
 > Mini-Projeto 2
